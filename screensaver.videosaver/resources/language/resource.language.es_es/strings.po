@@ -54,7 +54,7 @@ msgstr "Un solo vídeo"
 
 msgctxt "#32010"
 msgid "Multiple Videos"
-msgstr "Multiples vídeos"
+msgstr "Múltiples vídeos"
 
 msgctxt "#32011"
 msgid "Set ScreenSaver Volume"
